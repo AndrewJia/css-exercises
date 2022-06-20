@@ -1,0 +1,18 @@
+.pinky {
+    background-color: rgb(255, 176, 189);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.large {
+    font-size: 24px;
+}
+
+#bigblue {
+    font-size: 36px;
+    color: blue;
+}
+
+#boldgreenback {
+    font-weight: bold;
+    background-color: #90EE90;
+}
